@@ -1,15 +1,14 @@
 
-# 🧠 MD3: Multi-Modal Multi-Class Deepfake Detection Benchmark
+# 🧠 MD3: Toward Next-Generation Multi-Modal Multi-Class Deepfake Detection Benchmark
 
 > **Paper:** _Toward Next-Generation Multi-Modal Deepfake Detection Benchmark_  
-> **Conference:** ACM International Conference on Multimedia Modeling (MMM) 2025 (Under Review)  
 > [📄 PDF](https://github.com/adinathdukre/MD3) | [📊 Dataset Info](#dataset-overview) | [📬 Contact](#contact)
 
 ---
 
 ## ✨ Overview
 
-**MD3** is a large-scale, multimodal, and multiclass deepfake detection benchmark specifically designed to challenge and evaluate modern deepfake detectors. It addresses the **four core limitations** of existing benchmarks:
+**MD3** is a Toward Next-Generation, multimodal, and multiclass deepfake detection benchmark specifically designed to challenge and evaluate modern deepfake detectors. It addresses the **four core limitations** of existing benchmarks:
 
 1. **Diversity Gap** – Current datasets focus on limited deepfake types (e.g., face-swapping)  
 2. **Outdated Techniques** – Most deepfakes used are from older generation models  
@@ -17,7 +16,7 @@
 4. **Insufficient Labels** – Most benchmarks fail to label forgery types explicitly
 
 **MD3 introduces:**
-- ✅ 10 unique audio-visual manipulation classes
+- ✅ 8 unique audio-visual manipulation classes
 - 🌍 Over 4,700 subjects from 114 countries
 - 🧠 Compatibility with both binary and multiclass training
 - 🎯 Evaluations on 8 state-of-the-art (SOTA) detection methods
@@ -95,37 +94,15 @@ MD3/
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/adinathdukre/MD3.git
-cd MD3
-pip install -r requirements.txt
-python infer.py --input ./sample.mp4 --output ./result.json
-```
 
 ---
 
-## 📚 Citation
-
-```bibtex
-@inproceedings{dukremd3,
-  title={Toward Next-Generation Multi-Modal Deepfake Detection Benchmark},
-  author={Dukre, Adinath and others},
-  booktitle={Proceedings of ACM MMM},
-  year={2025}
-}
-```
 
 ---
 
 ## 📬 Contact
 
-- ✉️ Adinath Dukre (MBZUAI) – `adinath.dukre@email.com`
-- 🌐 Project Page: [adinathdukre.github.io](https://adinathdukre.github.io)
+- ✉️ Adinath Dukre (MBZUAI) – `adinath.dukre@mbzuai.ac.ae`
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more info.
