@@ -46,7 +46,8 @@
  
 *Figure 1: Overview of multi-modal data combinations used in MD3.*
 
-![MD3 Figure 2](assert/sample_from each_class.pdf)  
+![Class sample distribution](assert/class%20sample%20distribution_page-0001.jpg)
+ 
 *Figure 2: Class balance and subject diversity compared with other datasets.*
 
 ---
