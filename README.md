@@ -42,7 +42,7 @@
 
 ### 📊 Dataset Composition & Modalities
 
-![MD3 Figure 1](assert/class sample distribution.pdf)  
+![MD3 Figure 1](assert/class sample distribution_page-0001.jpg)  
 *Figure 1: Overview of multi-modal data combinations used in MD3.*
 
 ![MD3 Figure 2](assert/sample_from each_class.pdf)  
