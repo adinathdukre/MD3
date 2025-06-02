@@ -80,11 +80,7 @@
 - **Ethnic & Gender Stratification:** Ensures demographic balance
 
 ---
-## ⚙️ 3.4 Computational Cost
 
-We spent approximately **∼600 GPU hours** for speech recognition using Whisper [48], **∼2100 GPU hours** for training VITS [33] (each of the 721 VITS models requires ~3 hours), and **∼300 GPU hours** for data generation.
-
-Overall, we needed **∼3000 GPU hours** to generate AVDeepfake1M using NVIDIA RTX6000 GPUs.
 
 
 ## 🏗 Repo Structure
