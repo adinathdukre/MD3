@@ -21,7 +21,7 @@
 - 🎯 Benchmarking on 8 state-of-the-art (SOTA) detection methods
 
 ---
-
+## 📦 Highlighting Our Dataset Strength
 ## 📦 Dataset Overview
 
 ### 🔹 Forgery Types
