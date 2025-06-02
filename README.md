@@ -42,10 +42,10 @@
 
 ### 📊 Dataset Composition & Modalities
 
-![MD3 Figure 1](assets/motivation_cropped.pdf)  
+![MD3 Figure 1](assert/class sample distribution.pdf)  
 *Figure 1: Overview of multi-modal data combinations used in MD3.*
 
-![MD3 Figure 2](assets/sample_from_each_class.pdf)  
+![MD3 Figure 2](assert/sample_from each_class.pdf)  
 *Figure 2: Class balance and subject diversity compared with other datasets.*
 
 ---
