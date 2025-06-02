@@ -43,7 +43,7 @@
 
 ### 📊 Dataset Composition & Modalities
 
-![MD3 Figure 1](assets/MD3_Figure1.png)  
+![MD3 Figure 1](motivation_cropped.pdf)  
 *Figure 1: Overview of multi-modal data combinations used in MD3.*
 
 ![MD3 Figure 2](assets/MD3_Figure2.png)  
