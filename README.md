@@ -28,7 +28,7 @@
 This radar chart showcases the comparative strengths of our dataset across multiple dimensions, including multiclass coverage, AV modality balance, number of subjects, and advanced manipulation types.  
 Our dataset significantly expands the landscape compared to existing benchmarks, offering a more comprehensive and challenging resource for deepfake detection research.
 
-![Highlighting Our Dataset](assets/Highlightin_Our_Dataset_0.png)
+![Highlighting Our Dataset](assets/Highlightin_Our_Dataset_.png)
 
 
 
