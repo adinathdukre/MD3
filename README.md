@@ -38,8 +38,7 @@ Our dataset significantly expands the landscape compared to existing benchmarks,
 | Video         | Attribute Manip. (AM) | StyleGANEX, Latent Transformer       |
 | Audio         | Voice Cloning (TTS)   | StyleTTS, HierSpeech++               |
 | Audio + Video | Fully Synthetic       | Combinations of the above            |
-
-- 🔢 **Real Audio + Real Video:** 40K clips from VoxCeleb2  
+  
 - 🔁 **Fake Pairs (AV):** 140K synthetic videos + 80K synthetic audios  
 - 🧬 Comprehensive coverage: IS, ET, AM, TTS for rich modality combinations
 
