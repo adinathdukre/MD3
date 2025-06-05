@@ -12,7 +12,7 @@
 - ✅ 8 unique audio-visual manipulation classes
 - 🌍 Over 4,700 subjects from 114 countries
 - 🧠 Support for both binary and multiclass training
-- 🎯 Benchmarking on 8 state-of-the-art (SOTA) detection methods
+- 🎯 Benchmarking on 4 state-of-the-art (SOTA) detection methods
 
 ---
 ## 📦 Highlighting Our Dataset
