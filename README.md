@@ -31,13 +31,19 @@ Our dataset significantly expands the landscape compared to existing benchmarks,
 
 ### 🔹 Forgery Types
 
-| Modality       | Category              | Techniques Used                      |
-|---------------|-----------------------|--------------------------------------|
-| Video         | Identity Swap (IS)    | SimSwap, FaceDancer                  |
-| Video         | Expression Transfer   | FOMM, LivePortrait                   |
-| Video         | Attribute Manip. (AM) | StyleGANEX, Latent Transformer       |
-| Audio         | Voice Cloning (TTS)   | StyleTTS, HierSpeech++               |
-| Audio + Video | Fully Synthetic       | Combinations of the above            |
+## 💡 Dataset Modalities and Synthesis Techniques
+
+| Modality         | Category                    | Techniques Used                                                                 |
+|------------------|-----------------------------|----------------------------------------------------------------------------------|
+| **Audio + Video**        | Identity Swap (IS)          | SimSwap, FaceDancer (paired with real audio from **VoxCeleb2**)                 |
+| **Audio + Video**        | Expression Transfer         | FOMM, LivePortrait (paired with real audio from **VoxCeleb2**)                  |
+| **Audio + Video**        | Attribute Manipulation (AM) | StyleGANEX, Latent Transformer (paired with real audio from **VoxCeleb2**)      |
+| **Audio + Video**        | Voice Cloning (TTS)         | StyleTTS, HierSpeech++ (trained to clone voices from **VoxCeleb2**)             |
+| **Audio + Video**| Real Video + Real Audio     | VoxCeleb2                                                                       |
+| **Audio + Video**| Identity Swap + TTS         | SimSwap + StyleTTS, HierSpeech++, FaceDancer                                    |
+| **Audio + Video**| Expression Transfer + TTS   | FOMM, LivePortrait + Latent Transformer, HierSpeech++                           |
+| **Audio + Video**| Attribute Manip. + TTS      | StyleGANEX, Latent Transformer + StyleTTS, HierSpeech++                         |
+
   
 - 🔁 **Fake Pairs (AV):** 140K synthetic videos + 80K synthetic audios  
 - 🧬 Comprehensive coverage: IS, ET, AM, TTS for rich modality combinations
