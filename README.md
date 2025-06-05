@@ -66,8 +66,6 @@ Our dataset significantly expands the landscape compared to existing benchmarks,
 
 ### Multiclass Classification (Image-based)
 
-## 📊 Model Performance
-
 | Model            | Classes | Accuracy | AUC  | Precision | Recall | F1    |
 |------------------|---------|----------|------|-----------|--------|-------|
 | Xception    | 4       | 71.58    | 0.90 | 72.81     | 71.59  | 71.72 |
