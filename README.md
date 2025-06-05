@@ -66,10 +66,14 @@ Our dataset significantly expands the landscape compared to existing benchmarks,
 
 ### Multiclass Classification (Image-based)
 
+## 📊 Model Performance
+
 | Model            | Classes | Accuracy | AUC  | Precision | Recall | F1    |
 |------------------|---------|----------|------|-----------|--------|-------|
-| Xception         | 4       | 71.58%   | 0.90 | 72.81     | 71.59  | 71.72 |
-| MesoInception4   | 4       | 39.88%   | 0.74 | 53.44     | 39.76  | 35.75 |
+| Xception    | 4       | 71.58    | 0.90 | 72.81     | 71.59  | 71.72 |
+| MESO4         | 4       | 39.83    | 0.77 | 56.50     | 39.69  | 34.54 |
+| MesoInception4 | 4      | 39.88    | 0.74 | 53.44     | 39.76  | 35.75 |
+
 
 ### Binary Classification (Audio-Visual)
 
