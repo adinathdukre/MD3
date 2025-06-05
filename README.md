@@ -35,11 +35,11 @@ Our dataset significantly expands the landscape compared to existing benchmarks,
 
 | Modality         | Category                    | Techniques Used                                                                 |
 |------------------|-----------------------------|----------------------------------------------------------------------------------|
+| **Audio + Video**| Real Video + Real Audio     | VoxCeleb2                                                                       |
 | **Audio + Video**        | Identity Swap (IS)          | SimSwap, FaceDancer (paired with real audio from **VoxCeleb2**)                 |
 | **Audio + Video**        | Expression Transfer         | FOMM, LivePortrait (paired with real audio from **VoxCeleb2**)                  |
 | **Audio + Video**        | Attribute Manipulation (AM) | StyleGANEX, Latent Transformer (paired with real audio from **VoxCeleb2**)      |
-| **Audio + Video**        | Voice Cloning (TTS)         | StyleTTS, HierSpeech++ (trained to clone voices from **VoxCeleb2**)             |
-| **Audio + Video**| Real Video + Real Audio     | VoxCeleb2                                                                       |
+| **Audio + Video**        | Voice Cloning (TTS)         | StyleTTS, HierSpeech++ (paired with real video from **VoxCeleb2**)             |
 | **Audio + Video**| Identity Swap + TTS         | SimSwap + StyleTTS, HierSpeech++, FaceDancer                                    |
 | **Audio + Video**| Expression Transfer + TTS   | FOMM, LivePortrait + Latent Transformer, HierSpeech++                           |
 | **Audio + Video**| Attribute Manip. + TTS      | StyleGANEX, Latent Transformer + StyleTTS, HierSpeech++                         |
